@@ -18,3 +18,9 @@ __pycache__/
 **.terraform/
 **.terraform.lock*
 **terraform.tfstate*
+<<<<<<< HEAD
+=======
+
+/mlops
+scratch-notes.md
+>>>>>>> daecd7e (merged things)
